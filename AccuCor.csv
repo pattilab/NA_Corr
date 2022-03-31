@@ -1,0 +1,954 @@
+﻿Compound,Formula,IsotopeLabel
+Pyruvate,C3H4O3,C12 PARENT
+Pyruvate,C3H4O3,C13-label-1
+Pyruvate,C3H4O3,C13-label-2
+Pyruvate,C3H4O3,C13-label-3
+Lactate,C3H6O3,C12 PARENT
+Lactate,C3H6O3,C13-label-1
+Lactate,C3H6O3,C13-label-2
+Lactate,C3H6O3,C13-label-3
+Fumarate,C4H4O4,C12 PARENT
+Fumarate,C4H4O4,C13-label-1
+Fumarate,C4H4O4,C13-label-2
+Fumarate,C4H4O4,C13-label-3
+Fumarate,C4H4O4,C13-label-4
+Succinate,C4H6O4,C12 PARENT
+Succinate,C4H6O4,C13-label-1
+Succinate,C4H6O4,C13-label-2
+Succinate,C4H6O4,C13-label-3
+Succinate,C4H6O4,C13-label-4
+Asparagine,C4H8N2O3,C12 PARENT
+Asparagine,C4H8N2O3,C13-label-1
+Asparagine,C4H8N2O3,C13-label-2
+Asparagine,C4H8N2O3,C13-label-3
+Asparagine,C4H8N2O3,C13-label-4
+Malate,C4H6O5,C12 PARENT
+Malate,C4H6O5,C13-label-1
+Malate,C4H6O5,C13-label-2
+Malate,C4H6O5,C13-label-3
+Malate,C4H6O5,C13-label-4
+a-KG,C5H6O5,C12 PARENT
+a-KG,C5H6O5,C13-label-1
+a-KG,C5H6O5,C13-label-2
+a-KG,C5H6O5,C13-label-3
+a-KG,C5H6O5,C13-label-4
+a-KG,C5H6O5,C13-label-5
+Citrate,C6H8O7,C12 PARENT
+Citrate,C6H8O7,C13-label-1
+Citrate,C6H8O7,C13-label-2
+Citrate,C6H8O7,C13-label-3
+Citrate,C6H8O7,C13-label-4
+Citrate,C6H8O7,C13-label-5
+Citrate,C6H8O7,C13-label-6
+Isocitrate,C6H8O7,C12 PARENT
+Isocitrate,C6H8O7,C13-label-1
+Isocitrate,C6H8O7,C13-label-2
+Isocitrate,C6H8O7,C13-label-3
+Isocitrate,C6H8O7,C13-label-4
+Isocitrate,C6H8O7,C13-label-5
+Isocitrate,C6H8O7,C13-label-6
+6-Phosphogluconate,C6H13O10P,C12 PARENT
+6-Phosphogluconate,C6H13O10P,C13-label-1
+6-Phosphogluconate,C6H13O10P,C13-label-2
+6-Phosphogluconate,C6H13O10P,C13-label-3
+6-Phosphogluconate,C6H13O10P,C13-label-4
+6-Phosphogluconate,C6H13O10P,C13-label-5
+6-Phosphogluconate,C6H13O10P,C13-label-6
+Palmitic acid,C16H32O2,C12 PARENT
+Palmitic acid,C16H32O2,C13-label-1
+Palmitic acid,C16H32O2,C13-label-2
+Palmitic acid,C16H32O2,C13-label-3
+Palmitic acid,C16H32O2,C13-label-4
+Palmitic acid,C16H32O2,C13-label-5
+Palmitic acid,C16H32O2,C13-label-6
+Palmitic acid,C16H32O2,C13-label-7
+Palmitic acid,C16H32O2,C13-label-8
+Palmitic acid,C16H32O2,C13-label-9
+Palmitic acid,C16H32O2,C13-label-10
+Palmitic acid,C16H32O2,C13-label-11
+Palmitic acid,C16H32O2,C13-label-12
+Palmitic acid,C16H32O2,C13-label-13
+Palmitic acid,C16H32O2,C13-label-14
+Palmitic acid,C16H32O2,C13-label-15
+Palmitic acid,C16H32O2,C13-label-16
+Glutathione,C10H17N3O6S,C12 PARENT
+Glutathione,C10H17N3O6S,C13-label-1
+Glutathione,C10H17N3O6S,C13-label-2
+Glutathione,C10H17N3O6S,C13-label-3
+Glutathione,C10H17N3O6S,C13-label-4
+Glutathione,C10H17N3O6S,C13-label-5
+Glutathione,C10H17N3O6S,C13-label-6
+Glutathione,C10H17N3O6S,C13-label-7
+Glutathione,C10H17N3O6S,C13-label-8
+Glutathione,C10H17N3O6S,C13-label-9
+Glutathione,C10H17N3O6S,C13-label-10
+ADP,C10H15N5O10P2,C12 PARENT
+ADP,C10H15N5O10P2,C13-label-1
+ADP,C10H15N5O10P2,C13-label-2
+ADP,C10H15N5O10P2,C13-label-3
+ADP,C10H15N5O10P2,C13-label-4
+ADP,C10H15N5O10P2,C13-label-5
+ADP,C10H15N5O10P2,C13-label-6
+ADP,C10H15N5O10P2,C13-label-7
+ADP,C10H15N5O10P2,C13-label-8
+ADP,C10H15N5O10P2,C13-label-9
+ADP,C10H15N5O10P2,C13-label-10
+ATP,C10H16N5O13P3,C12 PARENT
+ATP,C10H16N5O13P3,C13-label-1
+ATP,C10H16N5O13P3,C13-label-2
+ATP,C10H16N5O13P3,C13-label-3
+ATP,C10H16N5O13P3,C13-label-4
+ATP,C10H16N5O13P3,C13-label-5
+ATP,C10H16N5O13P3,C13-label-6
+ATP,C10H16N5O13P3,C13-label-7
+ATP,C10H16N5O13P3,C13-label-8
+ATP,C10H16N5O13P3,C13-label-9
+ATP,C10H16N5O13P3,C13-label-10
+"Glutathione, oxidized",C20H32N6O12S2,C12 PARENT
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-1
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-2
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-3
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-4
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-5
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-6
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-7
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-8
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-9
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-10
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-11
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-12
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-13
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-14
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-15
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-16
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-17
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-18
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-19
+"Glutathione, oxidized",C20H32N6O12S2,C13-label-20
+NAD,C21H27N7O14P2,C12 PARENT
+NAD,C21H27N7O14P2,C13-label-1
+NAD,C21H27N7O14P2,C13-label-2
+NAD,C21H27N7O14P2,C13-label-3
+NAD,C21H27N7O14P2,C13-label-4
+NAD,C21H27N7O14P2,C13-label-5
+NAD,C21H27N7O14P2,C13-label-6
+NAD,C21H27N7O14P2,C13-label-7
+NAD,C21H27N7O14P2,C13-label-8
+NAD,C21H27N7O14P2,C13-label-9
+NAD,C21H27N7O14P2,C13-label-10
+NAD,C21H27N7O14P2,C13-label-11
+NAD,C21H27N7O14P2,C13-label-12
+NAD,C21H27N7O14P2,C13-label-13
+NAD,C21H27N7O14P2,C13-label-14
+NAD,C21H27N7O14P2,C13-label-15
+NAD,C21H27N7O14P2,C13-label-16
+NAD,C21H27N7O14P2,C13-label-17
+NAD,C21H27N7O14P2,C13-label-18
+NAD,C21H27N7O14P2,C13-label-19
+NAD,C21H27N7O14P2,C13-label-20
+NAD,C21H27N7O14P2,C13-label-21
+NADH,C21H29N7O14P2,C12 PARENT
+NADH,C21H29N7O14P2,C13-label-1
+NADH,C21H29N7O14P2,C13-label-2
+NADH,C21H29N7O14P2,C13-label-3
+NADH,C21H29N7O14P2,C13-label-4
+NADH,C21H29N7O14P2,C13-label-5
+NADH,C21H29N7O14P2,C13-label-6
+NADH,C21H29N7O14P2,C13-label-7
+NADH,C21H29N7O14P2,C13-label-8
+NADH,C21H29N7O14P2,C13-label-9
+NADH,C21H29N7O14P2,C13-label-10
+NADH,C21H29N7O14P2,C13-label-11
+NADH,C21H29N7O14P2,C13-label-12
+NADH,C21H29N7O14P2,C13-label-13
+NADH,C21H29N7O14P2,C13-label-14
+NADH,C21H29N7O14P2,C13-label-15
+NADH,C21H29N7O14P2,C13-label-16
+NADH,C21H29N7O14P2,C13-label-17
+NADH,C21H29N7O14P2,C13-label-18
+NADH,C21H29N7O14P2,C13-label-19
+NADH,C21H29N7O14P2,C13-label-20
+NADH,C21H29N7O14P2,C13-label-21
+NADP+,C21H28N7O17P3,C12 PARENT
+NADP+,C21H28N7O17P3,C13-label-1
+NADP+,C21H28N7O17P3,C13-label-2
+NADP+,C21H28N7O17P3,C13-label-3
+NADP+,C21H28N7O17P3,C13-label-4
+NADP+,C21H28N7O17P3,C13-label-5
+NADP+,C21H28N7O17P3,C13-label-6
+NADP+,C21H28N7O17P3,C13-label-7
+NADP+,C21H28N7O17P3,C13-label-8
+NADP+,C21H28N7O17P3,C13-label-9
+NADP+,C21H28N7O17P3,C13-label-10
+NADP+,C21H28N7O17P3,C13-label-11
+NADP+,C21H28N7O17P3,C13-label-12
+NADP+,C21H28N7O17P3,C13-label-13
+NADP+,C21H28N7O17P3,C13-label-14
+NADP+,C21H28N7O17P3,C13-label-15
+NADP+,C21H28N7O17P3,C13-label-16
+NADP+,C21H28N7O17P3,C13-label-17
+NADP+,C21H28N7O17P3,C13-label-18
+NADP+,C21H28N7O17P3,C13-label-19
+NADP+,C21H28N7O17P3,C13-label-20
+NADP+,C21H28N7O17P3,C13-label-21
+NADPH,C21H30N7O17P3,C12 PARENT
+NADPH,C21H30N7O17P3,C13-label-1
+NADPH,C21H30N7O17P3,C13-label-2
+NADPH,C21H30N7O17P3,C13-label-3
+NADPH,C21H30N7O17P3,C13-label-4
+NADPH,C21H30N7O17P3,C13-label-5
+NADPH,C21H30N7O17P3,C13-label-6
+NADPH,C21H30N7O17P3,C13-label-7
+NADPH,C21H30N7O17P3,C13-label-8
+NADPH,C21H30N7O17P3,C13-label-9
+NADPH,C21H30N7O17P3,C13-label-10
+NADPH,C21H30N7O17P3,C13-label-11
+NADPH,C21H30N7O17P3,C13-label-12
+NADPH,C21H30N7O17P3,C13-label-13
+NADPH,C21H30N7O17P3,C13-label-14
+NADPH,C21H30N7O17P3,C13-label-15
+NADPH,C21H30N7O17P3,C13-label-16
+NADPH,C21H30N7O17P3,C13-label-17
+NADPH,C21H30N7O17P3,C13-label-18
+NADPH,C21H30N7O17P3,C13-label-19
+NADPH,C21H30N7O17P3,C13-label-20
+NADPH,C21H30N7O17P3,C13-label-21
+FAD,C27H33N9O15P2,C12 PARENT
+FAD,C27H33N9O15P2,C13-label-1
+FAD,C27H33N9O15P2,C13-label-2
+FAD,C27H33N9O15P2,C13-label-3
+FAD,C27H33N9O15P2,C13-label-4
+FAD,C27H33N9O15P2,C13-label-5
+FAD,C27H33N9O15P2,C13-label-6
+FAD,C27H33N9O15P2,C13-label-7
+FAD,C27H33N9O15P2,C13-label-8
+FAD,C27H33N9O15P2,C13-label-9
+FAD,C27H33N9O15P2,C13-label-10
+FAD,C27H33N9O15P2,C13-label-11
+FAD,C27H33N9O15P2,C13-label-12
+FAD,C27H33N9O15P2,C13-label-13
+FAD,C27H33N9O15P2,C13-label-14
+FAD,C27H33N9O15P2,C13-label-15
+FAD,C27H33N9O15P2,C13-label-16
+FAD,C27H33N9O15P2,C13-label-17
+FAD,C27H33N9O15P2,C13-label-18
+FAD,C27H33N9O15P2,C13-label-19
+FAD,C27H33N9O15P2,C13-label-20
+FAD,C27H33N9O15P2,C13-label-21
+FAD,C27H33N9O15P2,C13-label-22
+FAD,C27H33N9O15P2,C13-label-23
+FAD,C27H33N9O15P2,C13-label-24
+FAD,C27H33N9O15P2,C13-label-25
+FAD,C27H33N9O15P2,C13-label-26
+FAD,C27H33N9O15P2,C13-label-27
+FADH2,C27H37N9O15P2,C12 PARENT
+FADH2,C27H37N9O15P2,C13-label-1
+FADH2,C27H37N9O15P2,C13-label-2
+FADH2,C27H37N9O15P2,C13-label-3
+FADH2,C27H37N9O15P2,C13-label-4
+FADH2,C27H37N9O15P2,C13-label-5
+FADH2,C27H37N9O15P2,C13-label-6
+FADH2,C27H37N9O15P2,C13-label-7
+FADH2,C27H37N9O15P2,C13-label-8
+FADH2,C27H37N9O15P2,C13-label-9
+FADH2,C27H37N9O15P2,C13-label-10
+FADH2,C27H37N9O15P2,C13-label-11
+FADH2,C27H37N9O15P2,C13-label-12
+FADH2,C27H37N9O15P2,C13-label-13
+FADH2,C27H37N9O15P2,C13-label-14
+FADH2,C27H37N9O15P2,C13-label-15
+FADH2,C27H37N9O15P2,C13-label-16
+FADH2,C27H37N9O15P2,C13-label-17
+FADH2,C27H37N9O15P2,C13-label-18
+FADH2,C27H37N9O15P2,C13-label-19
+FADH2,C27H37N9O15P2,C13-label-20
+FADH2,C27H37N9O15P2,C13-label-21
+FADH2,C27H37N9O15P2,C13-label-22
+FADH2,C27H37N9O15P2,C13-label-23
+FADH2,C27H37N9O15P2,C13-label-24
+FADH2,C27H37N9O15P2,C13-label-25
+FADH2,C27H37N9O15P2,C13-label-26
+FADH2,C27H37N9O15P2,C13-label-27
+Acetyl CoA,C23H38N7O17P3S,C12 PARENT
+Acetyl CoA,C23H38N7O17P3S,C13-label-1
+Acetyl CoA,C23H38N7O17P3S,C13-label-2
+Acetyl CoA,C23H38N7O17P3S,C13-label-3
+Acetyl CoA,C23H38N7O17P3S,C13-label-4
+Acetyl CoA,C23H38N7O17P3S,C13-label-5
+Acetyl CoA,C23H38N7O17P3S,C13-label-6
+Acetyl CoA,C23H38N7O17P3S,C13-label-7
+Acetyl CoA,C23H38N7O17P3S,C13-label-8
+Acetyl CoA,C23H38N7O17P3S,C13-label-9
+Acetyl CoA,C23H38N7O17P3S,C13-label-10
+Acetyl CoA,C23H38N7O17P3S,C13-label-11
+Acetyl CoA,C23H38N7O17P3S,C13-label-12
+Acetyl CoA,C23H38N7O17P3S,C13-label-13
+Acetyl CoA,C23H38N7O17P3S,C13-label-14
+Acetyl CoA,C23H38N7O17P3S,C13-label-15
+Acetyl CoA,C23H38N7O17P3S,C13-label-16
+Acetyl CoA,C23H38N7O17P3S,C13-label-17
+Acetyl CoA,C23H38N7O17P3S,C13-label-18
+Acetyl CoA,C23H38N7O17P3S,C13-label-19
+Acetyl CoA,C23H38N7O17P3S,C13-label-20
+Acetyl CoA,C23H38N7O17P3S,C13-label-21
+Acetyl CoA,C23H38N7O17P3S,C13-label-22
+Acetyl CoA,C23H38N7O17P3S,C13-label-23
+Glucose,C6H12O6,C12 PARENT
+Glucose,C6H12O6,C13-label-1
+Glucose,C6H12O6,C13-label-2
+Glucose,C6H12O6,C13-label-3
+Glucose,C6H12O6,C13-label-4
+Glucose,C6H12O6,C13-label-5
+Glucose,C6H12O6,C13-label-6
+Glucose-6-phosphate,C6H13O9P,C12 PARENT
+Glucose-6-phosphate,C6H13O9P,C13-label-1
+Glucose-6-phosphate,C6H13O9P,C13-label-2
+Glucose-6-phosphate,C6H13O9P,C13-label-3
+Glucose-6-phosphate,C6H13O9P,C13-label-4
+Glucose-6-phosphate,C6H13O9P,C13-label-5
+Glucose-6-phosphate,C6H13O9P,C13-label-6
+Fructose-bisphosphate,C6H14O12P2,C12 PARENT
+Fructose-bisphosphate,C6H14O12P2,C13-label-1
+Fructose-bisphosphate,C6H14O12P2,C13-label-2
+Fructose-bisphosphate,C6H14O12P2,C13-label-3
+Fructose-bisphosphate,C6H14O12P2,C13-label-4
+Fructose-bisphosphate,C6H14O12P2,C13-label-5
+Fructose-bisphosphate,C6H14O12P2,C13-label-6
+GAP,C3H7O6P,C12 PARENT
+GAP,C3H7O6P,C13-label-1
+GAP,C3H7O6P,C13-label-2
+GAP,C3H7O6P,C13-label-3
+DHAP,C3H7O6P,C12 PARENT
+DHAP,C3H7O6P,C13-label-1
+DHAP,C3H7O6P,C13-label-2
+DHAP,C3H7O6P,C13-label-3
+Glycerol 3-phosphate,C3H9O6P,C12 PARENT
+Glycerol 3-phosphate,C3H9O6P,C13-label-1
+Glycerol 3-phosphate,C3H9O6P,C13-label-2
+Glycerol 3-phosphate,C3H9O6P,C13-label-3
+2-PG,C3H7O7P,C12 PARENT
+2-PG,C3H7O7P,C13-label-1
+2-PG,C3H7O7P,C13-label-2
+2-PG,C3H7O7P,C13-label-3
+2PG,C3H7O7P,C12 PARENT
+2PG,C3H7O7P,C13-label-1
+2PG,C3H7O7P,C13-label-2
+2PG,C3H7O7P,C13-label-3
+3-PG,C3H7O7P,C12 PARENT
+3-PG,C3H7O7P,C13-label-1
+3-PG,C3H7O7P,C13-label-2
+3-PG,C3H7O7P,C13-label-3
+3PG,C3H7O7P,C12 PARENT
+3PG,C3H7O7P,C13-label-1
+3PG,C3H7O7P,C13-label-2
+3PG,C3H7O7P,C13-label-3
+phosphoenol pyruvate,C3H5O6P,C12 PARENT
+phosphoenol pyruvate,C3H5O6P,C13-label-1
+phosphoenol pyruvate,C3H5O6P,C13-label-2
+phosphoenol pyruvate,C3H5O6P,C13-label-3
+R5P,C5H11O8P,C12 PARENT
+R5P,C5H11O8P,C13-label-1
+R5P,C5H11O8P,C13-label-2
+R5P,C5H11O8P,C13-label-3
+R5P,C5H11O8P,C13-label-4
+R5P,C5H11O8P,C13-label-5
+Gluconate,C6H12O7,C12 PARENT
+Gluconate,C6H12O7,C13-label-1
+Gluconate,C6H12O7,C13-label-2
+Gluconate,C6H12O7,C13-label-3
+Gluconate,C6H12O7,C13-label-4
+Gluconate,C6H12O7,C13-label-5
+Gluconate,C6H12O7,C13-label-6
+6-Phosphogluconic acid,C6H13O10P,C12 PARENT
+6-Phosphogluconic acid,C6H13O10P,C13-label-1
+6-Phosphogluconic acid,C6H13O10P,C13-label-2
+6-Phosphogluconic acid,C6H13O10P,C13-label-3
+6-Phosphogluconic acid,C6H13O10P,C13-label-4
+6-Phosphogluconic acid,C6H13O10P,C13-label-5
+6-Phosphogluconic acid,C6H13O10P,C13-label-6
+2-HG,C5H8O5,C12 PARENT
+2-HG,C5H8O5,C13-label-1
+2-HG,C5H8O5,C13-label-2
+2-HG,C5H8O5,C13-label-3
+2-HG,C5H8O5,C13-label-4
+2-HG,C5H8O5,C13-label-5
+AMP,C10H14N5O7P,C12 PARENT
+AMP,C10H14N5O7P,C13-label-1
+AMP,C10H14N5O7P,C13-label-2
+AMP,C10H14N5O7P,C13-label-3
+AMP,C10H14N5O7P,C13-label-4
+AMP,C10H14N5O7P,C13-label-5
+AMP,C10H14N5O7P,C13-label-6
+AMP,C10H14N5O7P,C13-label-7
+AMP,C10H14N5O7P,C13-label-8
+AMP,C10H14N5O7P,C13-label-9
+AMP,C10H14N5O7P,C13-label-10
+Glutamate,C5H9NO4,C12 PARENT
+Glutamate,C5H9NO4,C13-label-1
+Glutamate,C5H9NO4,C13-label-2
+Glutamate,C5H9NO4,C13-label-3
+Glutamate,C5H9NO4,C13-label-4
+Glutamate,C5H9NO4,C13-label-5
+Glutamine,C5H10N2O3,C12 PARENT
+Glutamine,C5H10N2O3,C13-label-1
+Glutamine,C5H10N2O3,C13-label-2
+Glutamine,C5H10N2O3,C13-label-3
+Glutamine,C5H10N2O3,C13-label-4
+Glutamine,C5H10N2O3,C13-label-5
+Glutarate,C5H8O4,C12 PARENT
+Glutarate,C5H8O4,C13-label-1
+Glutarate,C5H8O4,C13-label-2
+Glutarate,C5H8O4,C13-label-3
+Glutarate,C5H8O4,C13-label-4
+Glutarate,C5H8O4,C13-label-5
+Proline,C5H9NO2,C12 PARENT
+Proline,C5H9NO2,C13-label-1
+Proline,C5H9NO2,C13-label-2
+Proline,C5H9NO2,C13-label-3
+Proline,C5H9NO2,C13-label-4
+Proline,C5H9NO2,C13-label-5
+Glycine,C2H5NO2,C12 PARENT
+Glycine,C2H5NO2,C13-label-1
+Glycine,C2H5NO2,C13-label-2
+Glutarate,C5H8O4,C12 PARENT
+Glutarate,C5H8O4,C13-label-1
+Glutarate,C5H8O4,C13-label-2
+Glutarate,C5H8O4,C13-label-3
+Glutarate,C5H8O4,C13-label-4
+Glutarate,C5H8O4,C13-label-5
+Methionine,C5H11NO2S,C12 PARENT
+Methionine,C5H11NO2S,C13-label-1
+Methionine,C5H11NO2S,C13-label-2
+Methionine,C5H11NO2S,C13-label-3
+Methionine,C5H11NO2S,C13-label-4
+Methionine,C5H11NO2S,C13-label-5
+Tyrosine,C9H11NO3,C12 PARENT
+Tyrosine,C9H11NO3,C13-label-1
+Tyrosine,C9H11NO3,C13-label-2
+Tyrosine,C9H11NO3,C13-label-3
+Tyrosine,C9H11NO3,C13-label-4
+Tyrosine,C9H11NO3,C13-label-5
+Tyrosine,C9H11NO3,C13-label-6
+Tyrosine,C9H11NO3,C13-label-7
+Tyrosine,C9H11NO3,C13-label-8
+Tyrosine,C9H11NO3,C13-label-9
+Serine,C3H7NO3,C12 PARENT
+Serine,C3H7NO3,C13-label-1
+Serine,C3H7NO3,C13-label-2
+Serine,C3H7NO3,C13-label-3
+Threonine,C4H9NO3,C12 PARENT
+Threonine,C4H9NO3,C13-label-1
+Threonine,C4H9NO3,C13-label-2
+Threonine,C4H9NO3,C13-label-3
+Threonine,C4H9NO3,C13-label-4
+Phenylalanine,C9H11NO2,C12 PARENT
+Phenylalanine,C9H11NO2,C13-label-1
+Phenylalanine,C9H11NO2,C13-label-2
+Phenylalanine,C9H11NO2,C13-label-3
+Phenylalanine,C9H11NO2,C13-label-4
+Phenylalanine,C9H11NO2,C13-label-5
+Phenylalanine,C9H11NO2,C13-label-6
+Phenylalanine,C9H11NO2,C13-label-7
+Phenylalanine,C9H11NO2,C13-label-8
+Phenylalanine,C9H11NO2,C13-label-9
+Valine,C5H11NO2,C12 PARENT
+Valine,C5H11NO2,C13-label-1
+Valine,C5H11NO2,C13-label-2
+Valine,C5H11NO2,C13-label-3
+Valine,C5H11NO2,C13-label-4
+Valine,C5H11NO2,C13-label-5
+Adenine,C5H5N5,C12 PARENT
+Adenine,C5H5N5,C13-label-1
+Adenine,C5H5N5,C13-label-2
+Adenine,C5H5N5,C13-label-3
+Adenine,C5H5N5,C13-label-4
+Adenine,C5H5N5,C13-label-5
+Aspartate,C4H7NO4,C12 PARENT
+Aspartate,C4H7NO4,C13-label-1
+Aspartate,C4H7NO4,C13-label-2
+Aspartate,C4H7NO4,C13-label-3
+Aspartate,C4H7NO4,C13-label-4
+Lysine,C6H14N2O2,C12 PARENT
+Lysine,C6H14N2O2,C13-label-1
+Lysine,C6H14N2O2,C13-label-2
+Lysine,C6H14N2O2,C13-label-3
+Lysine,C6H14N2O2,C13-label-4
+Lysine,C6H14N2O2,C13-label-5
+Lysine,C6H14N2O2,C13-label-6
+Leucine,C6H13NO2,C12 PARENT
+Leucine,C6H13NO2,C13-label-1
+Leucine,C6H13NO2,C13-label-2
+Leucine,C6H13NO2,C13-label-3
+Leucine,C6H13NO2,C13-label-4
+Leucine,C6H13NO2,C13-label-5
+Leucine,C6H13NO2,C13-label-6
+Isoleucine,C6H13NO2,C12 PARENT
+Isoleucine,C6H13NO2,C13-label-1
+Isoleucine,C6H13NO2,C13-label-2
+Isoleucine,C6H13NO2,C13-label-3
+Isoleucine,C6H13NO2,C13-label-4
+Isoleucine,C6H13NO2,C13-label-5
+Isoleucine,C6H13NO2,C13-label-6
+Alanine,C3H7NO2,C12 PARENT
+Alanine,C3H7NO2,C13-label-1
+Alanine,C3H7NO2,C13-label-2
+Alanine,C3H7NO2,C13-label-3
+Uracil,C4H4N2O2,C12 PARENT
+Uracil,C4H4N2O2,C13-label-1
+Uracil,C4H4N2O2,C13-label-2
+Uracil,C4H4N2O2,C13-label-3
+Uracil,C4H4N2O2,C13-label-4
+Itaconate,C5H6O4,C12 PARENT
+Itaconate,C5H6O4,C13-label-1
+Itaconate,C5H6O4,C13-label-2
+Itaconate,C5H6O4,C13-label-3
+Itaconate,C5H6O4,C13-label-4
+Itaconate,C5H6O4,C13-label-5
+2-HG,C5H8O5,C12 PARENT
+2-HG,C5H8O5,C13-label-1
+2-HG,C5H8O5,C13-label-2
+2-HG,C5H8O5,C13-label-3
+2-HG,C5H8O5,C13-label-4
+2-HG,C5H8O5,C13-label-5
+Aconitate,C6H6O6,C12 PARENT
+Aconitate,C6H6O6,C13-label-1
+Aconitate,C6H6O6,C13-label-2
+Aconitate,C6H6O6,C13-label-3
+Aconitate,C6H6O6,C13-label-4
+Aconitate,C6H6O6,C13-label-5
+Aconitate,C6H6O6,C13-label-6
+Arginine,C6H14N4O2,C12 PARENT
+Arginine,C6H14N4O2,C13-label-1
+Arginine,C6H14N4O2,C13-label-2
+Arginine,C6H14N4O2,C13-label-3
+Arginine,C6H14N4O2,C13-label-4
+Arginine,C6H14N4O2,C13-label-5
+Arginine,C6H14N4O2,C13-label-6
+Argininosuccinic acid,C10H18N4O6,C12 PARENT
+Argininosuccinic acid,C10H18N4O6,C13-label-1
+Argininosuccinic acid,C10H18N4O6,C13-label-2
+Argininosuccinic acid,C10H18N4O6,C13-label-3
+Argininosuccinic acid,C10H18N4O6,C13-label-4
+Argininosuccinic acid,C10H18N4O6,C13-label-5
+Argininosuccinic acid,C10H18N4O6,C13-label-6
+Argininosuccinic acid,C10H18N4O6,C13-label-7
+Argininosuccinic acid,C10H18N4O6,C13-label-8
+Argininosuccinic acid,C10H18N4O6,C13-label-9
+Argininosuccinic acid,C10H18N4O6,C13-label-10
+UMP,C9H13N2O9P,C12 PARENT
+UMP,C9H13N2O9P,C13-label-1
+UMP,C9H13N2O9P,C13-label-2
+UMP,C9H13N2O9P,C13-label-3
+UMP,C9H13N2O9P,C13-label-4
+UMP,C9H13N2O9P,C13-label-5
+UMP,C9H13N2O9P,C13-label-6
+UMP,C9H13N2O9P,C13-label-7
+UMP,C9H13N2O9P,C13-label-8
+UMP,C9H13N2O9P,C13-label-9
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C12 PARENT
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-1
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-2
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-3
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-4
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-5
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-6
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-7
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-8
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-9
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-10
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-11
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-12
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-13
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-14
+UDP-glucose / UDP-galatose,C15H24N2O17P2,C13-label-15
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C12 PARENT
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-1
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-2
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-3
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-4
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-5
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-6
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-7
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-8
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-9
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-10
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-11
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-12
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-13
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-14
+Uridine 5'-diphosphoglucuronic acid,C15H22N2O18P2,C13-label-15
+UDP-N-acetylglucosamine,C17H27N3O17P2,C12 PARENT
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-1
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-2
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-3
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-4
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-5
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-6
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-7
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-8
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-9
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-10
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-11
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-12
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-13
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-14
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-15
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-16
+UDP-N-acetylglucosamine,C17H27N3O17P2,C13-label-17
+Glutathione reduced,C10H17N3O6S,C12 PARENT
+Glutathione reduced,C10H17N3O6S,C13-label-1
+Glutathione reduced,C10H17N3O6S,C13-label-2
+Glutathione reduced,C10H17N3O6S,C13-label-3
+Glutathione reduced,C10H17N3O6S,C13-label-4
+Glutathione reduced,C10H17N3O6S,C13-label-5
+Glutathione reduced,C10H17N3O6S,C13-label-6
+Glutathione reduced,C10H17N3O6S,C13-label-7
+Glutathione reduced,C10H17N3O6S,C13-label-8
+Glutathione reduced,C10H17N3O6S,C13-label-9
+Glutathione reduced,C10H17N3O6S,C13-label-10
+Glutathione oxidized,C20H32N6O12S2,C12 PARENT
+Glutathione oxidized,C20H32N6O12S2,C13-label-1
+Glutathione oxidized,C20H32N6O12S2,C13-label-2
+Glutathione oxidized,C20H32N6O12S2,C13-label-3
+Glutathione oxidized,C20H32N6O12S2,C13-label-4
+Glutathione oxidized,C20H32N6O12S2,C13-label-5
+Glutathione oxidized,C20H32N6O12S2,C13-label-6
+Glutathione oxidized,C20H32N6O12S2,C13-label-7
+Glutathione oxidized,C20H32N6O12S2,C13-label-8
+Glutathione oxidized,C20H32N6O12S2,C13-label-9
+Glutathione oxidized,C20H32N6O12S2,C13-label-10
+Glutathione oxidized,C20H32N6O12S2,C13-label-11
+Glutathione oxidized,C20H32N6O12S2,C13-label-12
+Glutathione oxidized,C20H32N6O12S2,C13-label-13
+Glutathione oxidized,C20H32N6O12S2,C13-label-14
+Glutathione oxidized,C20H32N6O12S2,C13-label-15
+Glutathione oxidized,C20H32N6O12S2,C13-label-16
+Glutathione oxidized,C20H32N6O12S2,C13-label-17
+Glutathione oxidized,C20H32N6O12S2,C13-label-18
+Glutathione oxidized,C20H32N6O12S2,C13-label-19
+Glutathione oxidized,C20H32N6O12S2,C13-label-20
+Oleic acid,C18H34O2,C12 PARENT
+Oleic acid,C18H34O2,C13-label-1
+Oleic acid,C18H34O2,C13-label-2
+Oleic acid,C18H34O2,C13-label-3
+Oleic acid,C18H34O2,C13-label-4
+Oleic acid,C18H34O2,C13-label-5
+Oleic acid,C18H34O2,C13-label-6
+Oleic acid,C18H34O2,C13-label-7
+Oleic acid,C18H34O2,C13-label-8
+Oleic acid,C18H34O2,C13-label-9
+Oleic acid,C18H34O2,C13-label-10
+Oleic acid,C18H34O2,C13-label-11
+Oleic acid,C18H34O2,C13-label-12
+Oleic acid,C18H34O2,C13-label-13
+Oleic acid,C18H34O2,C13-label-14
+Oleic acid,C18H34O2,C13-label-15
+Oleic acid,C18H34O2,C13-label-16
+Oleic acid,C18H34O2,C13-label-17
+Oleic acid,C18H34O2,C13-label-18
+Fructose,C6H12O6,C12 PARENT
+Fructose,C6H12O6,C13-label-1
+Fructose,C6H12O6,C13-label-2
+Fructose,C6H12O6,C13-label-3
+Fructose,C6H12O6,C13-label-4
+Fructose,C6H12O6,C13-label-5
+Fructose,C6H12O6,C13-label-6
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C12 PARENT
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-1
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-2
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-3
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-4
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-5
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-6
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-7
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-8
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-9
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-10
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-11
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-12
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-13
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-14
+UDP-glucose  / UDP-galatose,C15H24N2O17P2,C13-label-15
+Cellobiose,C12H22O11,C12 PARENT
+Cellobiose,C12H22O11,C13-label-1
+Cellobiose,C12H22O11,C13-label-2
+Cellobiose,C12H22O11,C13-label-3
+Cellobiose,C12H22O11,C13-label-4
+Cellobiose,C12H22O11,C13-label-5
+Cellobiose,C12H22O11,C13-label-6
+Cellobiose,C12H22O11,C13-label-7
+Cellobiose,C12H22O11,C13-label-8
+Cellobiose,C12H22O11,C13-label-9
+Cellobiose,C12H22O11,C13-label-10
+Cellobiose,C12H22O11,C13-label-11
+Cellobiose,C12H22O11,C13-label-12
+NAD+,C21H27N7O14P2,C12 PARENT
+NAD+,C21H27N7O14P2,C13-label-1
+NAD+,C21H27N7O14P2,C13-label-2
+NAD+,C21H27N7O14P2,C13-label-3
+NAD+,C21H27N7O14P2,C13-label-4
+NAD+,C21H27N7O14P2,C13-label-5
+NAD+,C21H27N7O14P2,C13-label-6
+NAD+,C21H27N7O14P2,C13-label-7
+NAD+,C21H27N7O14P2,C13-label-8
+NAD+,C21H27N7O14P2,C13-label-9
+NAD+,C21H27N7O14P2,C13-label-10
+NAD+,C21H27N7O14P2,C13-label-11
+NAD+,C21H27N7O14P2,C13-label-12
+NAD+,C21H27N7O14P2,C13-label-13
+NAD+,C21H27N7O14P2,C13-label-14
+NAD+,C21H27N7O14P2,C13-label-15
+NAD+,C21H27N7O14P2,C13-label-16
+NAD+,C21H27N7O14P2,C13-label-17
+NAD+,C21H27N7O14P2,C13-label-18
+NAD+,C21H27N7O14P2,C13-label-19
+NAD+,C21H27N7O14P2,C13-label-20
+NAD+,C21H27N7O14P2,C13-label-21
+UDP,C9H14N2O12P2,C12 PARENT
+UDP,C9H14N2O12P2,C13-label-1
+UDP,C9H14N2O12P2,C13-label-2
+UDP,C9H14N2O12P2,C13-label-3
+UDP,C9H14N2O12P2,C13-label-4
+UDP,C9H14N2O12P2,C13-label-5
+UDP,C9H14N2O12P2,C13-label-6
+UDP,C9H14N2O12P2,C13-label-7
+UDP,C9H14N2O12P2,C13-label-8
+UDP,C9H14N2O12P2,C13-label-9
+UTP,C9H15N2O15P3,C12 PARENT
+UTP,C9H15N2O15P3,C13-label-1
+UTP,C9H15N2O15P3,C13-label-2
+UTP,C9H15N2O15P3,C13-label-3
+UTP,C9H15N2O15P3,C13-label-4
+UTP,C9H15N2O15P3,C13-label-5
+UTP,C9H15N2O15P3,C13-label-6
+UTP,C9H15N2O15P3,C13-label-7
+UTP,C9H15N2O15P3,C13-label-8
+UTP,C9H15N2O15P3,C13-label-9
+CMP,C9H14N3O8P,C12 PARENT
+CMP,C9H14N3O8P,C13-label-1
+CMP,C9H14N3O8P,C13-label-2
+CMP,C9H14N3O8P,C13-label-3
+CMP,C9H14N3O8P,C13-label-4
+CMP,C9H14N3O8P,C13-label-5
+CMP,C9H14N3O8P,C13-label-6
+CMP,C9H14N3O8P,C13-label-7
+CMP,C9H14N3O8P,C13-label-8
+CMP,C9H14N3O8P,C13-label-9
+CDP,C9H15N3O11P2,C12 PARENT
+CDP,C9H15N3O11P2,C13-label-1
+CDP,C9H15N3O11P2,C13-label-2
+CDP,C9H15N3O11P2,C13-label-3
+CDP,C9H15N3O11P2,C13-label-4
+CDP,C9H15N3O11P2,C13-label-5
+CDP,C9H15N3O11P2,C13-label-6
+CDP,C9H15N3O11P2,C13-label-7
+CDP,C9H15N3O11P2,C13-label-8
+CDP,C9H15N3O11P2,C13-label-9
+CTP,C9H16N3O14P3,C12 PARENT
+CTP,C9H16N3O14P3,C13-label-1
+CTP,C9H16N3O14P3,C13-label-2
+CTP,C9H16N3O14P3,C13-label-3
+CTP,C9H16N3O14P3,C13-label-4
+CTP,C9H16N3O14P3,C13-label-5
+CTP,C9H16N3O14P3,C13-label-6
+CTP,C9H16N3O14P3,C13-label-7
+CTP,C9H16N3O14P3,C13-label-8
+CTP,C9H16N3O14P3,C13-label-9
+Guanine,C5H5N5O,C12 PARENT
+Guanine,C5H5N5O,C13-label-1
+Guanine,C5H5N5O,C13-label-2
+Guanine,C5H5N5O,C13-label-3
+Guanine,C5H5N5O,C13-label-4
+Guanine,C5H5N5O,C13-label-5
+Cytosine,C4H5N3O,C12 PARENT
+Cytosine,C4H5N3O,C13-label-1
+Cytosine,C4H5N3O,C13-label-2
+Cytosine,C4H5N3O,C13-label-3
+Cytosine,C4H5N3O,C13-label-4
+TMP,C10H15N2O8P,C12 PARENT
+TMP,C10H15N2O8P,C13-label-1
+TMP,C10H15N2O8P,C13-label-2
+TMP,C10H15N2O8P,C13-label-3
+TMP,C10H15N2O8P,C13-label-4
+TMP,C10H15N2O8P,C13-label-5
+TMP,C10H15N2O8P,C13-label-6
+TMP,C10H15N2O8P,C13-label-7
+TMP,C10H15N2O8P,C13-label-8
+TMP,C10H15N2O8P,C13-label-9
+TMP,C10H15N2O8P,C13-label-10
+TDP,C10H16N2O11P2,C12 PARENT
+TDP,C10H16N2O11P2,C13-label-1
+TDP,C10H16N2O11P2,C13-label-2
+TDP,C10H16N2O11P2,C13-label-3
+TDP,C10H16N2O11P2,C13-label-4
+TDP,C10H16N2O11P2,C13-label-5
+TDP,C10H16N2O11P2,C13-label-6
+TDP,C10H16N2O11P2,C13-label-7
+TDP,C10H16N2O11P2,C13-label-8
+TDP,C10H16N2O11P2,C13-label-9
+TDP,C10H16N2O11P2,C13-label-10
+GMP,C10H14N5O8P,C12 PARENT
+GMP,C10H14N5O8P,C13-label-1
+GMP,C10H14N5O8P,C13-label-2
+GMP,C10H14N5O8P,C13-label-3
+GMP,C10H14N5O8P,C13-label-4
+GMP,C10H14N5O8P,C13-label-5
+GMP,C10H14N5O8P,C13-label-6
+GMP,C10H14N5O8P,C13-label-7
+GMP,C10H14N5O8P,C13-label-8
+GMP,C10H14N5O8P,C13-label-9
+GMP,C10H14N5O8P,C13-label-10
+GDP,C10H15N5O11P2,C12 PARENT
+GDP,C10H15N5O11P2,C13-label-1
+GDP,C10H15N5O11P2,C13-label-2
+GDP,C10H15N5O11P2,C13-label-3
+GDP,C10H15N5O11P2,C13-label-4
+GDP,C10H15N5O11P2,C13-label-5
+GDP,C10H15N5O11P2,C13-label-6
+GDP,C10H15N5O11P2,C13-label-7
+GDP,C10H15N5O11P2,C13-label-8
+GDP,C10H15N5O11P2,C13-label-9
+GDP,C10H15N5O11P2,C13-label-10
+GTP,C10H16N5O14P3,C12 PARENT
+GTP,C10H16N5O14P3,C13-label-1
+GTP,C10H16N5O14P3,C13-label-2
+GTP,C10H16N5O14P3,C13-label-3
+GTP,C10H16N5O14P3,C13-label-4
+GTP,C10H16N5O14P3,C13-label-5
+GTP,C10H16N5O14P3,C13-label-6
+GTP,C10H16N5O14P3,C13-label-7
+GTP,C10H16N5O14P3,C13-label-8
+GTP,C10H16N5O14P3,C13-label-9
+GTP,C10H16N5O14P3,C13-label-10
+FMN,C17H21N4O9P,C12 PARENT
+FMN,C17H21N4O9P,C13-label-1
+FMN,C17H21N4O9P,C13-label-2
+FMN,C17H21N4O9P,C13-label-3
+FMN,C17H21N4O9P,C13-label-4
+FMN,C17H21N4O9P,C13-label-5
+FMN,C17H21N4O9P,C13-label-6
+FMN,C17H21N4O9P,C13-label-7
+FMN,C17H21N4O9P,C13-label-8
+FMN,C17H21N4O9P,C13-label-9
+FMN,C17H21N4O9P,C13-label-10
+FMN,C17H21N4O9P,C13-label-11
+FMN,C17H21N4O9P,C13-label-12
+FMN,C17H21N4O9P,C13-label-13
+FMN,C17H21N4O9P,C13-label-14
+FMN,C17H21N4O9P,C13-label-15
+FMN,C17H21N4O9P,C13-label-16
+FMN,C17H21N4O9P,C13-label-17
+Folate,C19H19N7O6,C12 PARENT
+Folate,C19H19N7O6,C13-label-1
+Folate,C19H19N7O6,C13-label-2
+Folate,C19H19N7O6,C13-label-3
+Folate,C19H19N7O6,C13-label-4
+Folate,C19H19N7O6,C13-label-5
+Folate,C19H19N7O6,C13-label-6
+Folate,C19H19N7O6,C13-label-7
+Folate,C19H19N7O6,C13-label-8
+Folate,C19H19N7O6,C13-label-9
+Folate,C19H19N7O6,C13-label-10
+Folate,C19H19N7O6,C13-label-11
+Folate,C19H19N7O6,C13-label-12
+Folate,C19H19N7O6,C13-label-13
+Folate,C19H19N7O6,C13-label-14
+Folate,C19H19N7O6,C13-label-15
+Folate,C19H19N7O6,C13-label-16
+Folate,C19H19N7O6,C13-label-17
+Folate,C19H19N7O6,C13-label-18
+Folate,C19H19N7O6,C13-label-19
+Carnitine,C7H15NO3,C12 PARENT
+Carnitine,C7H15NO3,C13-label-1
+Carnitine,C7H15NO3,C13-label-2
+Carnitine,C7H15NO3,C13-label-3
+Carnitine,C7H15NO3,C13-label-4
+Carnitine,C7H15NO3,C13-label-5
+Carnitine,C7H15NO3,C13-label-6
+Carnitine,C7H15NO3,C13-label-7
+Methylguanine,C6H7N5O,C12 PARENT
+Methylguanine,C6H7N5O,C13-label-1
+Methylguanine,C6H7N5O,C13-label-2
+Methylguanine,C6H7N5O,C13-label-3
+Methylguanine,C6H7N5O,C13-label-4
+Methylguanine,C6H7N5O,C13-label-5
+Methylguanine,C6H7N5O,C13-label-6
+3-Indoleacrylic acid,C11H9NO2,C12 PARENT
+3-Indoleacrylic acid,C11H9NO2,C13-label-1
+3-Indoleacrylic acid,C11H9NO2,C13-label-2
+3-Indoleacrylic acid,C11H9NO2,C13-label-3
+3-Indoleacrylic acid,C11H9NO2,C13-label-4
+3-Indoleacrylic acid,C11H9NO2,C13-label-5
+3-Indoleacrylic acid,C11H9NO2,C13-label-6
+3-Indoleacrylic acid,C11H9NO2,C13-label-7
+3-Indoleacrylic acid,C11H9NO2,C13-label-8
+3-Indoleacrylic acid,C11H9NO2,C13-label-9
+3-Indoleacrylic acid,C11H9NO2,C13-label-10
+3-Indoleacrylic acid,C11H9NO2,C13-label-11
+Acetyl-Lysine,C8H16N2O3,C12 PARENT
+Acetyl-Lysine,C8H16N2O3,C13-label-1
+Acetyl-Lysine,C8H16N2O3,C13-label-2
+Acetyl-Lysine,C8H16N2O3,C13-label-3
+Acetyl-Lysine,C8H16N2O3,C13-label-4
+Acetyl-Lysine,C8H16N2O3,C13-label-5
+Acetyl-Lysine,C8H16N2O3,C13-label-6
+Acetyl-Lysine,C8H16N2O3,C13-label-7
+Acetyl-Lysine,C8H16N2O3,C13-label-8
+"N,N-Dimethylarginine",C8H18N4O2,C12 PARENT
+"N,N-Dimethylarginine",C8H18N4O2,C13-label-1
+"N,N-Dimethylarginine",C8H18N4O2,C13-label-2
+"N,N-Dimethylarginine",C8H18N4O2,C13-label-3
+"N,N-Dimethylarginine",C8H18N4O2,C13-label-4
+"N,N-Dimethylarginine",C8H18N4O2,C13-label-5
+"N,N-Dimethylarginine",C8H18N4O2,C13-label-6
+"N,N-Dimethylarginine",C8H18N4O2,C13-label-7
+"N,N-Dimethylarginine",C8H18N4O2,C13-label-8
+Acetylcarnitine,C9H17NO4,C12 PARENT
+Acetylcarnitine,C9H17NO4,C13-label-1
+Acetylcarnitine,C9H17NO4,C13-label-2
+Acetylcarnitine,C9H17NO4,C13-label-3
+Acetylcarnitine,C9H17NO4,C13-label-4
+Acetylcarnitine,C9H17NO4,C13-label-5
+Acetylcarnitine,C9H17NO4,C13-label-6
+Acetylcarnitine,C9H17NO4,C13-label-7
+Acetylcarnitine,C9H17NO4,C13-label-8
+Acetylcarnitine,C9H17NO4,C13-label-9
+Djenkolic acid,C7H14N2O4S2,C12 PARENT
+Djenkolic acid,C7H14N2O4S2,C13-label-1
+Djenkolic acid,C7H14N2O4S2,C13-label-2
+Djenkolic acid,C7H14N2O4S2,C13-label-3
+Djenkolic acid,C7H14N2O4S2,C13-label-4
+Djenkolic acid,C7H14N2O4S2,C13-label-5
+Djenkolic acid,C7H14N2O4S2,C13-label-6
+Djenkolic acid,C7H14N2O4S2,C13-label-7
+4-Hydroxyprolylglutamine,C10H17N3O5,C12 PARENT
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-1
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-2
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-3
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-4
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-5
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-6
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-7
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-8
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-9
+4-Hydroxyprolylglutamine,C10H17N3O5,C13-label-10
+Cysteine-glutathione disulfide,C13H22N4O8S2,C12 PARENT
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-1
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-2
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-3
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-4
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-5
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-6
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-7
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-8
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-9
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-10
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-11
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-12
+Cysteine-glutathione disulfide,C13H22N4O8S2,C13-label-13
+Itaconate,C5H6O4,C12 PARENT
+Itaconate,C5H6O4,C13-label-1
+Itaconate,C5H6O4,C13-label-2
+Itaconate,C5H6O4,C13-label-3
+Itaconate,C5H6O4,C13-label-4
+Itaconate,C5H6O4,C13-label-5
