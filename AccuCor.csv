@@ -1752,6 +1752,12 @@ Glucose-6-phosphate,C6H13O9P,C13-label-3
 Glucose-6-phosphate,C6H13O9P,C13-label-4
 Glucose-6-phosphate,C6H13O9P,C13-label-5
 Glucose-6-phosphate,C6H13O9P,C13-label-6
+Glutamate,C5H9NO4,C12 PARENT
+Glutamate,C5H9NO4,C13-label-1
+Glutamate,C5H9NO4,C13-label-2
+Glutamate,C5H9NO4,C13-label-3
+Glutamate,C5H9NO4,C13-label-4
+Glutamate,C5H9NO4,C13-label-5
 Glutamine,C5H10N2O3,C12 PARENT
 Glutamine,C5H10N2O3,C13-label-1
 Glutamine,C5H10N2O3,C13-label-2
@@ -3327,6 +3333,10 @@ Phosphoenolpyruvate,C3H5O6P,C12 PARENT
 Phosphoenolpyruvate,C3H5O6P,C13-label-1
 Phosphoenolpyruvate,C3H5O6P,C13-label-2
 Phosphoenolpyruvate,C3H5O6P,C13-label-3
+Phosphoenol pyruvate,C3H5O6P,C12 PARENT
+Phosphoenol pyruvate,C3H5O6P,C13-label-1
+Phosphoenol pyruvate,C3H5O6P,C13-label-2
+Phosphoenol pyruvate,C3H5O6P,C13-label-3
 Pro,C5H9NO2,C12 PARENT
 Pro,C5H9NO2,C13-label-1
 Pro,C5H9NO2,C13-label-2
