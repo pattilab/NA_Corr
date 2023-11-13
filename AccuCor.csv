@@ -19220,12 +19220,11 @@ gamma-Aminobutyric acid,C4H9NO2,C13-label-1
 gamma-Aminobutyric acid,C4H9NO2,C13-label-2
 gamma-Aminobutyric acid,C4H9NO2,C13-label-3
 gamma-Aminobutyric acid,C4H9NO2,C13-label-4
-gamma-Aminobutyric acid,C5H11NO2,C12 PARENT
-gamma-Aminobutyric acid,C5H11NO2,C13-label-1
-gamma-Aminobutyric acid,C5H11NO2,C13-label-2
-gamma-Aminobutyric acid,C5H11NO2,C13-label-3
-gamma-Aminobutyric acid,C5H11NO2,C13-label-4
-gamma-Aminobutyric acid,C5H11NO2,C13-label-5
+GABA,C4H9NO2,C12 PARENT
+GABA,C4H9NO2,C13-label-1
+GABA,C4H9NO2,C13-label-2
+GABA,C4H9NO2,C13-label-3
+GABA,C4H9NO2,C13-label-4
 Gentisic acid,C7H6O4,C12 PARENT
 Gentisic acid,C7H6O4,C13-label-1
 Gentisic acid,C7H6O4,C13-label-2
